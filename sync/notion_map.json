@@ -1,0 +1,781 @@
+{
+ "notion_data_source": "collection://214f1a93-912c-80a2-aae6-000b48b907df",
+ "notion_page": "214f1a93912c80f3b31ed87b37ad78d9",
+ "last_sync": "2026-11-20",
+ "pages": {
+  "3eef1a93912c80f7a668d764ed055260": {
+   "notion_title": "Albatross",
+   "bird_id": "albatross",
+   "photos_imported": [
+    "Screenshot_2026-10-03_at_20.07.00.png"
+   ]
+  },
+  "38ff1a93912c8038bdb4c5eaad4698c5": {
+   "notion_title": "Ashy Prinia",
+   "bird_id": "ashy-prinia",
+   "photos_imported": [
+    "1000246543.jpg"
+   ]
+  },
+  "2d7f1a93912c80729d6ed84e8e1bed7f": {
+   "notion_title": "Asian Green Bee-eater",
+   "bird_id": "asian-green-bee-eater",
+   "photos_imported": [
+    "1000175118.jpg",
+    "1000281952.jpg",
+    "1000283787.jpg"
+   ]
+  },
+  "28ef1a93912c80ac9eefc07e3be11be5": {
+   "notion_title": "Asian Openbill",
+   "bird_id": "asian-openbill",
+   "photos_imported": [
+    "1000150488.jpg",
+    "1000150466.jpg"
+   ]
+  },
+  "38ff1a93912c80359028d65a79bd4d7b": {
+   "notion_title": "Asian Tit",
+   "bird_id": "cinereous-tit",
+   "photos_imported": [
+    "1000240533.jpg"
+   ]
+  },
+  "3eef1a93912c8005b93fe7901c91bc7d": {
+   "notion_title": "Australian Magpie",
+   "bird_id": "australian-magpie",
+   "photos_imported": []
+  },
+  "3eef1a93912c80558aabf25ffb0dd5ad": {
+   "notion_title": "Bay-backed Shrike",
+   "bird_id": "bay-backed-shrike",
+   "photos_imported": [
+    "1000273495.jpg",
+    "1000273497.jpg"
+   ]
+  },
+  "3a4f1a93912c8034a081c06a91d95d8d": {
+   "notion_title": "Baya Weaver",
+   "bird_id": "baya-weaver",
+   "photos_imported": [
+    "1000246552.jpg",
+    "1000246521.jpg"
+   ]
+  },
+  "3eff1a93912c8069b714d3d5fbdccd06": {
+   "notion_title": "Bellbird NZ",
+   "bird_id": "new-zealand-bellbird",
+   "photos_imported": []
+  },
+  "214f1a93912c805bb887c1b9d173f055": {
+   "notion_title": "Bird name",
+   "skipped": "not a bird"
+  },
+  "214f1a93912c807499f9fc3cf28c6aa3": {
+   "notion_title": "Black Headed Ibis",
+   "bird_id": "black-headed-ibis",
+   "photos_imported": [
+    "1000110626.png"
+   ]
+  },
+  "30bf1a93912c803f8bede6861ec7df1e": {
+   "notion_title": "Black Hooded Oriole",
+   "bird_id": "black-hooded-oriole",
+   "photos_imported": []
+  },
+  "30bf1a93912c80728e65c39157d63acf": {
+   "notion_title": "Black Kite",
+   "bird_id": "black-kite",
+   "photos_imported": [
+    "1000188519.jpg",
+    "1000188517.jpg"
+   ]
+  },
+  "3eef1a93912c80cea2bbd43218035ffc": {
+   "notion_title": "Black Swan",
+   "bird_id": "black-swan",
+   "photos_imported": [
+    "Screenshot_2026-10-03_at_20.00.59.png"
+   ]
+  },
+  "3caf1a93912c807abd3aea7ea41fd09e": {
+   "notion_title": "Black-billed Gull",
+   "bird_id": "black-billed-gull",
+   "photos_imported": [
+    "Screenshot_2026-08-28_at_16.39.39.png"
+   ]
+  },
+  "2c7f1a93912c80508267e20f1045a087": {
+   "notion_title": "Black-winged Stilts",
+   "bird_id": "black-winged-stilt",
+   "photos_imported": [
+    "1000169791.jpg",
+    "1000169795.jpg"
+   ]
+  },
+  "2c8f1a93912c805ea9a5fc727bcf231f": {
+   "notion_title": "Brahminy Kite",
+   "bird_id": "brahminy-kite",
+   "photos_imported": [
+    "1000170123.jpg",
+    "1000170122.jpg",
+    "1000170124.jpg"
+   ]
+  },
+  "2c7f1a93912c80cf975cf185e65d62d4": {
+   "notion_title": "Bronze-winged Jacana",
+   "bird_id": "bronze-winged-jacana",
+   "photos_imported": [
+    "1000169759.jpg",
+    "1000169760.jpg"
+   ]
+  },
+  "407f1a93912c801a89c5ed34283fcbee": {
+   "notion_title": "Brown Rock Chat",
+   "bird_id": "brown-rock-chat",
+   "photos_imported": [
+    "1000282647.jpg",
+    "1000282643.jpg",
+    "1000282779.png"
+   ]
+  },
+  "3caf1a93912c809eb128f3ecbda5422d": {
+   "notion_title": "California Quail",
+   "bird_id": "california-quail",
+   "photos_imported": [
+    "Screenshot_2026-08-28_at_16.52.15.png"
+   ]
+  },
+  "3eef1a93912c80039647dd1c4f59a25d": {
+   "notion_title": "Canada Goose",
+   "bird_id": "canada-goose",
+   "photos_imported": [
+    "Screenshot_2026-10-03_at_20.13.29.png"
+   ]
+  },
+  "3b1f1a93912c8088a268eb50a7b789ed": {
+   "notion_title": "Chestnust-headed bee-eater",
+   "bird_id": "chestnut-headed-bee-eater",
+   "photos_imported": [
+    "1000251737.png"
+   ]
+  },
+  "3eef1a93912c80e69030cd3076dcd33e": {
+   "notion_title": "Common Cuckoo",
+   "bird_id": "common-cuckoo",
+   "photos_imported": []
+  },
+  "3caf1a93912c8044ae93d7180a91dfa3": {
+   "notion_title": "Common/Eurasian Blackbird",
+   "bird_id": "eurasian-blackbird",
+   "photos_imported": [
+    "Screenshot_2026-08-28_at_16.42.40.png"
+   ]
+  },
+  "38ff1a93912c80ac9f02d2d095aaaeba": {
+   "notion_title": "Common Flameback Woodpecker",
+   "bird_id": "common-flameback",
+   "photos_imported": []
+  },
+  "28ef1a93912c80abb722ea98864c74fa": {
+   "notion_title": "Common Kingfisher",
+   "bird_id": "common-kingfisher",
+   "photos_imported": [
+    "1000150478.jpg",
+    "1000150477.jpg"
+   ]
+  },
+  "30ff1a93912c8078b3f6c61a66ca6729": {
+   "notion_title": "Common Moorhen",
+   "bird_id": "common-moorhen",
+   "photos_imported": [
+    "1000195980.jpg"
+   ]
+  },
+  "2c7f1a93912c80178152d82a6e7a04a7": {
+   "notion_title": "Common hawk-cuckoo",
+   "bird_id": "common-hawk-cuckoo",
+   "photos_imported": [
+    "1000169805.jpg",
+    "1000169818.jpg"
+   ]
+  },
+  "3b1f1a93912c803a9310f0e1f523f515": {
+   "notion_title": "Coot",
+   "bird_id": "eurasian-coot",
+   "photos_imported": [
+    "1000251135.jpg"
+   ]
+  },
+  "30ff1a93912c80d0bb4cf05af25338e9": {
+   "notion_title": "Coppersmith Barbet",
+   "bird_id": "coppersmith-barbet",
+   "photos_imported": [
+    "1000195958.jpg",
+    "1000195957.jpg",
+    "1000195952.jpg"
+   ]
+  },
+  "214f1a93912c80b680fbed026ee0dcaa": {
+   "notion_title": "Dactyly",
+   "skipped": "not a bird"
+  },
+  "28af1a93912c80f7bb2af04c1d13bbef": {
+   "notion_title": "Egret",
+   "bird_id": "egret",
+   "photos_imported": [
+    "1000149159.jpg",
+    "1000149158.jpg"
+   ]
+  },
+  "3eef1a93912c8072a9ddc01dc2f48d40": {
+   "notion_title": "Eurasian Wryneck",
+   "bird_id": "eurasian-wryneck",
+   "photos_imported": []
+  },
+  "3eef1a93912c80e8b89dd6185a80d745": {
+   "notion_title": "European Roller",
+   "bird_id": "european-roller",
+   "photos_imported": [
+    "1000273573.jpg",
+    "1000273577.jpg"
+   ]
+  },
+  "214f1a93912c80b0841ce97ab612037b": {
+   "notion_title": "Glossy Ibis",
+   "bird_id": "glossy-ibis",
+   "photos_imported": [
+    "1000110548.png",
+    "1000110549.png"
+   ]
+  },
+  "214f1a93912c81a09c38e790b667b4f8": {
+   "notion_title": "Great Cormorant",
+   "bird_id": "great-cormorant",
+   "photos_imported": [
+    "nse-1137989108362893464-1097567455.jpg",
+    "1000110547.png",
+    "1000259547.jpg"
+   ]
+  },
+  "3eef1a93912c80c79d01dc3347547ef0": {
+   "notion_title": "Green Finch (Male & Female)",
+   "bird_id": "european-greenfinch",
+   "photos_imported": [
+    "Green Finch (Male & Female"
+   ]
+  },
+  "214f1a93912c80b38cb6dd9731229432": {
+   "notion_title": "Grey Heron",
+   "bird_id": "grey-heron",
+   "photos_imported": [
+    "1000110542.png"
+   ]
+  },
+  "282f1a93912c802c9b14d370c041f462": {
+   "notion_title": "Grey Wagtail",
+   "bird_id": "grey-wagtail",
+   "photos_imported": [
+    "1000146783.jpg"
+   ]
+  },
+  "418f1a93912c80948bf7fcae23c495cc": {
+   "notion_title": "Grey-headed Swamphen (Purple Swamphen)",
+   "bird_id": "grey-headed-swamphen",
+   "photos_imported": [
+    "Grey-headed Swamphen (Purple Swamphen"
+   ]
+  },
+  "3eff1a93912c8098be3dfaa5f8bf578d": {
+   "notion_title": "House Sparrow (Female)",
+   "bird_id": "house-sparrow",
+   "photos_imported": [
+    "House Sparrow (Female"
+   ]
+  },
+  "3eff1a93912c80a8898aec0de01dc72d": {
+   "notion_title": "House Sparrow (Male)",
+   "bird_id": "house-sparrow",
+   "photos_imported": [
+    "House Sparrow (Male"
+   ]
+  },
+  "30bf1a93912c8058925ed0246f293e75": {
+   "notion_title": "Indian Golden Oriole",
+   "bird_id": "indian-golden-oriole",
+   "photos_imported": [
+    "1000240596.png",
+    "1000256742.jpg"
+   ]
+  },
+  "3a5f1a93912c808f9be7fb8e5d05cadc": {
+   "notion_title": "Indian Gray Hornbill",
+   "bird_id": "indian-grey-hornbill",
+   "photos_imported": []
+  },
+  "3eef1a93912c80d49079f98aa6aeab92": {
+   "notion_title": "Indian Koel (Female)",
+   "bird_id": "indian-koel",
+   "photos_imported": [
+    "Indian Koel (Female",
+    "Indian Koel (Female"
+   ]
+  },
+  "3a5f1a93912c80c2bac9ec6aaee6b470": {
+   "notion_title": "Indian Robin",
+   "bird_id": "indian-robin",
+   "photos_imported": [
+    "1000281973.jpg"
+   ]
+  },
+  "2d7f1a93912c807faeb6ce95f18926b2": {
+   "notion_title": "Indian Roller",
+   "bird_id": "indian-roller",
+   "photos_imported": [
+    "1000175141.jpg"
+   ]
+  },
+  "214f1a93912c80db9049e7abe1bade0a": {
+   "notion_title": "Indian Whiteye",
+   "bird_id": "indian-white-eye",
+   "photos_imported": [
+    "1000146890.jpg",
+    "1000146886.png"
+   ]
+  },
+  "3eef1a93912c8044969cfc1bf46b4f81": {
+   "notion_title": "Kea",
+   "bird_id": "kea",
+   "photos_imported": [
+    "Screenshot_2026-10-03_at_20.03.57.png",
+    "Screenshot_2026-10-03_at_20.03.49.png"
+   ]
+  },
+  "3caf1a93912c80be86b4cba783057b49": {
+   "notion_title": "Kelp Gull / Southern Black-backed Gull",
+   "bird_id": "kelp-gull",
+   "photos_imported": [
+    "Screenshot_2026-08-28_at_16.51.31.png"
+   ]
+  },
+  "3eff1a93912c8026a698c9b1cb2e796a": {
+   "notion_title": "Kiwi",
+   "bird_id": "kiwi",
+   "photos_imported": []
+  },
+  "2d7f1a93912c80b78a50d60aa68356d2": {
+   "notion_title": "Lapwing",
+   "bird_id": "lapwing",
+   "photos_imported": []
+  },
+  "3b1f1a93912c80a585bcf60aded2620c": {
+   "notion_title": "Little Grebe",
+   "bird_id": "little-grebe",
+   "photos_imported": []
+  },
+  "3eff1a93912c80388cb4e8fe4751b1b4": {
+   "notion_title": "Long-tailed Shrike",
+   "bird_id": "long-tailed-shrike",
+   "photos_imported": []
+  },
+  "38ff1a93912c80a6a186cd91920463e8": {
+   "notion_title": "Malabar Gray Hornbill",
+   "bird_id": "malabar-grey-hornbill",
+   "photos_imported": [
+    "1000239767.jpg"
+   ]
+  },
+  "38ff1a93912c80fb8cddf08edbfb0a2d": {
+   "notion_title": "Malabar Pied Hornbill",
+   "bird_id": "malabar-pied-hornbill",
+   "photos_imported": [
+    "1000239877.jpg",
+    "1000239541.jpg",
+    "1000239715.jpg"
+   ]
+  },
+  "3eef1a93912c80599e16dec4a396fdb9": {
+   "notion_title": "Mallard (Female)",
+   "bird_id": "mallard",
+   "photos_imported": [
+    "Mallard (Female"
+   ]
+  },
+  "3eef1a93912c8044abd5dc622fe1d127": {
+   "notion_title": "Muscovy duck",
+   "bird_id": "muscovy-duck",
+   "photos_imported": [
+    "Screenshot_2026-10-03_at_20.18.25.png"
+   ]
+  },
+  "3eef1a93912c80beb090cd9885797aa1": {
+   "notion_title": "NZ Pigeon - Kereru",
+   "bird_id": "kerer",
+   "photos_imported": [
+    "Screenshot_2026-10-03_at_20.01.44.png"
+   ]
+  },
+  "3eef1a93912c80fcaf3ec4ccd581cf90": {
+   "notion_title": "NZ Scaup",
+   "bird_id": "new-zealand-scaup",
+   "photos_imported": [
+    "Screenshot_2026-10-03_at_20.09.43.png"
+   ]
+  },
+  "3caf1a93912c8079a1fad44f01140dd2": {
+   "notion_title": "New Zealand Fantail",
+   "bird_id": "new-zealand-fantail",
+   "photos_imported": [
+    "Screenshot_2026-08-28_at_16.59.32.png"
+   ]
+  },
+  "2d7f1a93912c80e888c6c22e8ad300a4": {
+   "notion_title": "Night Heron",
+   "bird_id": "black-crowned-night-heron",
+   "photos_imported": [
+    "1000170460.jpg",
+    "1000194300.jpg",
+    "1000194301.jpg",
+    "1000206361.jpg",
+    "1000258086.jpg"
+   ]
+  },
+  "214f1a93912c809583f2dc1d7520929e": {
+   "notion_title": "Oriental Magpie Robin",
+   "bird_id": "oriental-magpie-robin",
+   "photos_imported": [
+    "1000109981.jpg"
+   ]
+  },
+  "405f1a93912c80a99b76dc0f61ef295e": {
+   "notion_title": "Pacific Swallow",
+   "bird_id": "pacific-swallow",
+   "photos_imported": [
+    "1000282186.png"
+   ]
+  },
+  "3eef1a93912c8058bb7ce35f7f898edf": {
+   "notion_title": "Paddyfield Pipit",
+   "bird_id": "paddyfield-pipit",
+   "photos_imported": [
+    "1000273555.jpg",
+    "1000281968.jpg"
+   ]
+  },
+  "28af1a93912c80a3807cf83e9408f0bb": {
+   "notion_title": "Painted Stork",
+   "bird_id": "painted-stork",
+   "photos_imported": [
+    "1000149177.jpg",
+    "1000259512.jpg"
+   ]
+  },
+  "3b1f1a93912c80d89905e0538198f716": {
+   "notion_title": "Pale-billed Flowerpecker",
+   "bird_id": "pale-billed-flowerpecker",
+   "photos_imported": [
+    "1000251714.jpg"
+   ]
+  },
+  "3b1f1a93912c80afb39bdce949c4fbb9": {
+   "notion_title": "Paradise Flycatcher",
+   "bird_id": "indian-paradise-flycatcher",
+   "photos_imported": []
+  },
+  "3eef1a93912c80598622e919b20de5d4": {
+   "notion_title": "Paradise Shelduck (Male & Female)",
+   "bird_id": "paradise-shelduck",
+   "photos_imported": [
+    "Paradise Shelduck (Male & Female"
+   ]
+  },
+  "214f1a93912c80ea9b0ac122bd7266b7": {
+   "notion_title": "Passerine birds",
+   "skipped": "not a bird"
+  },
+  "285f1a93912c800a8e8bcb459a01d5df": {
+   "notion_title": "Pelican",
+   "bird_id": "pelican",
+   "photos_imported": [
+    "1000149147.jpg",
+    "1000149140.jpg"
+   ]
+  },
+  "3a4f1a93912c8048a80cd516ce3a1576": {
+   "notion_title": "Pied Bush Chat",
+   "bird_id": "pied-bushchat",
+   "photos_imported": [
+    "1000246539.jpg"
+   ]
+  },
+  "2f3f1a93912c80a2b78ce898a51e8caf": {
+   "notion_title": "Pied Kingfisher",
+   "bird_id": "pied-kingfisher",
+   "photos_imported": [
+    "1000184957.jpg"
+   ]
+  },
+  "3eef1a93912c80369345d92340acd40c": {
+   "notion_title": "Pied Shag / Australian Pied Cormorant",
+   "bird_id": "pied-shag",
+   "photos_imported": [
+    "Screenshot_2026-10-03_at_20.20.53.png"
+   ]
+  },
+  "30bf1a93912c80f8b1c2f1eafea8a34f": {
+   "notion_title": "Pied Wagtail",
+   "bird_id": "pied-wagtail",
+   "photos_imported": [
+    "1000193301.jpg",
+    "1000193303.jpg",
+    "1000247430.jpg"
+   ]
+  },
+  "405f1a93912c80beb267da2c50a71d1d": {
+   "notion_title": "Plain Prinia",
+   "bird_id": "plain-prinia",
+   "photos_imported": [
+    "1000281959.jpg",
+    "1000281979.png",
+    "1000283768.jpg",
+    "1000283767.jpg"
+   ]
+  },
+  "2d7f1a93912c804ba3b8ef9b6fd20f8c": {
+   "notion_title": "Plum-headed Parakeet",
+   "bird_id": "plum-headed-parakeet",
+   "photos_imported": [
+    "1000174707.jpg"
+   ]
+  },
+  "2c8f1a93912c80af8762d8e0a9dddf17": {
+   "notion_title": "Purple Heron",
+   "bird_id": "purple-heron",
+   "photos_imported": [
+    "1000169809.jpg",
+    "1000195923.jpg",
+    "1000195921.jpg"
+   ]
+  },
+  "3aaf1a93912c8027a90bdd412ffef1cb": {
+   "notion_title": "Purple Rumped Sunbird (Male & Female)",
+   "bird_id": "purple-rumped-sunbird",
+   "photos_imported": [
+    "Purple Rumped Sunbird (Male & Female",
+    "Purple Rumped Sunbird (Male & Female",
+    "Purple Rumped Sunbird (Male & Female"
+   ]
+  },
+  "40cf1a93912c802a9818f63020645751": {
+   "notion_title": "Purple Sunbird",
+   "bird_id": "purple-sunbird",
+   "photos_imported": [
+    "1000284716.jpg",
+    "1000284719.jpg"
+   ]
+  },
+  "3a4f1a93912c80238e86cbfccfaacc5b": {
+   "notion_title": "Red Avadavat",
+   "bird_id": "red-avadavat",
+   "photos_imported": [
+    "1000283798.jpg"
+   ]
+  },
+  "30ff1a93912c8019bdc8c5e556d3a1c6": {
+   "notion_title": "Rosy Starling",
+   "bird_id": "rosy-starling",
+   "photos_imported": [
+    "1000196005.jpg"
+   ]
+  },
+  "38ff1a93912c80048a8be847daee9b6f": {
+   "notion_title": "Scaly breasted Munia",
+   "bird_id": "scaly-breasted-munia",
+   "photos_imported": [
+    "1000240558.jpg",
+    "1000283499.jpg",
+    "1000283389.jpg"
+   ]
+  },
+  "38ff1a93912c80429545fc783c9c6b0d": {
+   "notion_title": "Scarlett Minivet",
+   "bird_id": "scarlet-minivet",
+   "photos_imported": [
+    "1000239669.jpg",
+    "1000239670.jpg"
+   ]
+  },
+  "38ff1a93912c808a8230ee4789e62a0b": {
+   "notion_title": "Serpent Eagle",
+   "bird_id": "crested-serpent-eagle",
+   "photos_imported": [
+    "1000239429.jpg"
+   ]
+  },
+  "38ff1a93912c803da0f7f759fba62836": {
+   "notion_title": "Shikra",
+   "bird_id": "shikra",
+   "photos_imported": [
+    "1000239413.jpg",
+    "1000239411.jpg"
+   ]
+  },
+  "3caf1a93912c803491cac466d960eda6": {
+   "notion_title": "Silver Gull",
+   "bird_id": "red-billed-gull",
+   "photos_imported": [
+    "Screenshot_2026-08-28_at_17.03.25.png"
+   ]
+  },
+  "30ff1a93912c80a0afa9e18ce4ca8aaf": {
+   "notion_title": "Silverbill",
+   "bird_id": "indian-silverbill",
+   "photos_imported": [
+    "1000195965.jpg",
+    "1000283791.jpg"
+   ]
+  },
+  "3eef1a93912c809e8d98c7cac1ca155f": {
+   "notion_title": "Silvereye",
+   "bird_id": "silvereye",
+   "photos_imported": [
+    "Screenshot_2026-10-03_at_20.14.32.png"
+   ]
+  },
+  "3caf1a93912c809c93f7f8913ac4b7fb": {
+   "notion_title": "South Island Robin",
+   "bird_id": "south-island-robin",
+   "photos_imported": [
+    "Screenshot_2026-08-28_at_16.45.59.png"
+   ]
+  },
+  "2c8f1a93912c804bb2fbc60a79c22ef0": {
+   "notion_title": "Spot-billed duck",
+   "bird_id": "indian-spot-billed-duck",
+   "photos_imported": [
+    "1000170113.jpg",
+    "1000251141.jpg"
+   ]
+  },
+  "2c8f1a93912c801c8c0eeee06021c90f": {
+   "notion_title": "Spotted owlets",
+   "bird_id": "spotted-owlet",
+   "photos_imported": [
+    "1000170111.jpg",
+    "1000170112.jpg"
+   ]
+  },
+  "3eef1a93912c80a0b92fcfd6e9ddbdae": {
+   "notion_title": "Swamp Harrier",
+   "bird_id": "swamp-harrier",
+   "photos_imported": []
+  },
+  "2f3f1a93912c80d78e9fedc6452e1fde": {
+   "notion_title": "Tailorbird",
+   "bird_id": "common-tailorbird",
+   "photos_imported": [
+    "1000184926.jpg"
+   ]
+  },
+  "38ff1a93912c808aa8e2f6e1e51eb9da": {
+   "notion_title": "Tickel’s Blue Flycatcher",
+   "bird_id": "tickell-s-blue-flycatcher",
+   "photos_imported": [
+    "1000239683.jpg"
+   ]
+  },
+  "3eef1a93912c80cea67cf2b51004767a": {
+   "notion_title": "Tomtit",
+   "bird_id": "tomtit",
+   "photos_imported": [
+    "Screenshot_2026-10-03_at_19.56.17.png",
+    "Screenshot_2026-10-03_at_19.56.44.png"
+   ]
+  },
+  "3a4f1a93912c80c68946e980b37d1cb1": {
+   "notion_title": "Tri-colored Munias",
+   "bird_id": "tricoloured-munia",
+   "photos_imported": [
+    "1000246572.jpg",
+    "1000246575.jpg"
+   ]
+  },
+  "3caf1a93912c801d8d6fd62253ce0d63": {
+   "notion_title": "Tui",
+   "bird_id": "t",
+   "photos_imported": [
+    "Screenshot_2026-08-28_at_16.53.59.png",
+    "Screenshot_2026-08-28_at_16.57.23.png"
+   ]
+  },
+  "38ff1a93912c80a983e0de2e82e979d7": {
+   "notion_title": "Vernal Hanging Parrot",
+   "bird_id": "vernal-hanging-parrot",
+   "photos_imported": []
+  },
+  "3caf1a93912c8007be9ac08d601ea362": {
+   "notion_title": "White faced-heron",
+   "bird_id": "white-faced-heron",
+   "photos_imported": [
+    "Screenshot_2026-08-28_at_16.58.02.png"
+   ]
+  },
+  "3b1f1a93912c80b591e3dff91a2f6d96": {
+   "notion_title": "White-browed Bulbul",
+   "bird_id": "white-browed-bulbul",
+   "photos_imported": [
+    "1000251739.png"
+   ]
+  },
+  "2f3f1a93912c80f9b22fdbf432bf6a9f": {
+   "notion_title": "White-cheeked Barbet",
+   "bird_id": "white-cheeked-barbet",
+   "photos_imported": [
+    "1000182667.jpg"
+   ]
+  },
+  "2c8f1a93912c81f98e0cc3ec7f4b1ba3": {
+   "notion_title": "White-throated Kingfisher",
+   "bird_id": "white-throated-kingfisher",
+   "photos_imported": [
+    "nse-530535167329146016-14487492.jpg"
+   ]
+  },
+  "38ff1a93912c809e979add1d60179599": {
+   "notion_title": "Wire-tailed Swallow",
+   "bird_id": "wire-tailed-swallow",
+   "photos_imported": [
+    "1000239733.jpg",
+    "1000239737.jpg"
+   ]
+  },
+  "2fcf1a93912c80dfa9fdff26e568c144": {
+   "notion_title": "Wood Sandpiper",
+   "bird_id": "wood-sandpiper",
+   "photos_imported": [
+    "1000188170.jpg",
+    "1000188171.jpg"
+   ]
+  },
+  "38ff1a93912c80b49ff8c448cbfe75bf": {
+   "notion_title": "Wooly-necked Stork",
+   "bird_id": "woolly-necked-stork",
+   "photos_imported": [
+    "1000239416.jpg",
+    "1000239828.jpg"
+   ]
+  },
+  "3c2f1a93912c8012814bfa94d362162c": {
+   "notion_title": "Yellow-vented bulbul",
+   "bird_id": "yellow-vented-bulbul",
+   "photos_imported": [
+    "1000258116.jpg"
+   ]
+  },
+  "3a4f1a93912c801ab74bfda3051ca0f9": {
+   "notion_title": "Zitting cisticola",
+   "bird_id": "zitting-cisticola",
+   "photos_imported": []
+  }
+ }
+}
