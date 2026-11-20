@@ -11,6 +11,8 @@ upload them to Claude storage.
 - `photos/` — site photos, JPEG, longest side 1400px, quality ~78, named `<bird-id>-<n>.jpg`.
 - `sync/notion_map.json` — Notion page id → bird id, plus the Notion file names already imported
   per page. Pages marked `"skipped"` are not birds; leave them out.
+- Google Analytics (ID `G-THEQJ9VJYJ`): the gtag tags in `<head>` and the
+  `<script id="analytics">` click tracking before `</body>`. Keep both as they are.
 
 ## Notion source
 - Data source: `collection://214f1a93-912c-80a2-aae6-000b48b907df` (database inside the
