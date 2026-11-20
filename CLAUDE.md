@@ -51,8 +51,13 @@ upload them to Claude storage.
 3. Known row → add any new sighting dates/places from its notes and any photos whose Notion file
    name isn't in `photos_imported`. Update notes if Roshni added text. Never remove existing data,
    and never overwrite fields that differ only because they were tidied.
+   Placeholder dates: when a bird's notes had no date, its sighting was set to the Notion
+   `Created` date. If the notes now contain real dates and none of them is that `Created` date,
+   replace the placeholder sighting with the dates from the notes — don't keep it as an extra.
 4. If a Notion row was deleted, leave the bird on the site and mention it in the summary.
-5. Check: `python3 tools/birds.py dump` parses, every photo path exists, open `index.html` in a
+5. Only change bird data, `photos/` and `sync/notion_map.json`. Don't change the page's design,
+   code, icons or other files unless Roshni asks in the run's instructions.
+6. Check: `python3 tools/birds.py dump` parses, every photo path exists, open `index.html` in a
    headless browser and confirm no script errors.
-6. Commit with a message listing what changed (e.g. "Add Indian Pitta; 2 sightings, 3 photos")
+7. Commit with a message listing what changed (e.g. "Add Indian Pitta; 2 sightings, 3 photos")
    and push to `main`. If nothing changed, don't commit.
