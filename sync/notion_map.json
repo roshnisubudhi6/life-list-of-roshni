@@ -1,7 +1,7 @@
 {
  "notion_data_source": "collection://214f1a93-912c-80a2-aae6-000b48b907df",
  "notion_page": "214f1a93912c80f3b31ed87b37ad78d9",
- "last_sync": "2026-11-20",
+ "last_sync": "2026-11-21",
  "pages": {
   "3eef1a93912c80f7a668d764ed055260": {
    "notion_title": "Albatross",
@@ -365,7 +365,7 @@
   },
   "2d7f1a93912c80b78a50d60aa68356d2": {
    "notion_title": "Lapwing",
-   "bird_id": "lapwing",
+   "bird_id": "red-wattled-lapwing",
    "photos_imported": []
   },
   "3b1f1a93912c80a585bcf60aded2620c": {
@@ -780,6 +780,31 @@
   "41ef1a93912c80c8a452cc81f3abfd8e": {
    "notion_title": "Javan Myna",
    "bird_id": "javan-myna",
+   "photos_imported": []
+  },
+  "41ff1a93912c80149a87cdf034a042ca": {
+   "notion_title": "River Tern",
+   "bird_id": "river-tern",
+   "photos_imported": []
+  },
+  "41ff1a93912c8035aa53d4d43d33317c": {
+   "notion_title": "Eurasian Spoonbill",
+   "bird_id": "eurasian-spoonbill",
+   "photos_imported": []
+  },
+  "41ff1a93912c8092ab78cb9eb8b11fac": {
+   "notion_title": "Red-napped Ibis",
+   "bird_id": "red-naped-ibis",
+   "photos_imported": []
+  },
+  "41ff1a93912c80af82c1c554d32bb04d": {
+   "notion_title": "Common Iora",
+   "bird_id": "common-iora",
+   "photos_imported": []
+  },
+  "41ef1a93912c805d8c22e47add93037e": {
+   "notion_title": "Red-whiskered Bulbul",
+   "bird_id": "red-whiskered-bulbul",
    "photos_imported": []
   }
  }
