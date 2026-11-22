@@ -32,7 +32,7 @@ upload them to Claude storage.
  "photos":[{"id":"photos/indian-roller-1.jpg"}]}
 ```
 - `id`: lowercase name with hyphens, unique. `name`: proper common name (fix spelling).
-- `sightings`: `date` is `YYYY-MM-DD`, `YYYY` when Roshni only knows the year (e.g. "late 2025"), or `""`. Add `"country"` only for a country other than
+- `sightings`: `date` is `YYYY-MM-DD`, `YYYY-MM` when she only gives the month (e.g. "Oct 2026"), `YYYY` when she only knows the year (e.g. "late 2025"), or `""`. Add `"country"` only for a country other than
   India, New Zealand or Singapore (those are inferred from the place). If no date is in the notes,
   use the Notion `Created` date. Keep sightings unique (same date + place = duplicate).
 - `art.t` shape (pick the closest): perch, sunbird, swallow, beeeater, kingfisher, roller, barbet,
