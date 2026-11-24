@@ -481,9 +481,13 @@
    ]
   },
   "3b1f1a93912c80afb39bdce949c4fbb9": {
-   "notion_title": "Indian Paradise Flycatcher (Male)",
+   "notion_title": "Indian Paradise Flycatcher",
    "bird_id": "indian-paradise-flycatcher",
-   "photos_imported": []
+   "photos_imported": [
+    "1000293921.jpg",
+    "1000293828.jpg",
+    "1000293922.jpg"
+   ]
   },
   "3eef1a93912c80598622e919b20de5d4": {
    "notion_title": "Paradise Shelduck (Male & Female)",
@@ -889,15 +893,12 @@
    "bird_id": "indian-stone-curlew",
    "photos_imported": []
   },
-  "422f1a93912c80b48f33e694690560bc": {
-   "notion_title": "Indian Paradise Flycatcher (Female)",
-   "bird_id": "indian-paradise-flycatcher-female",
-   "photos_imported": []
-  },
   "422f1a93912c801ea7eeeddcd09155a1": {
    "notion_title": "Eastern Red-rumped Swallow",
    "bird_id": "eastern-red-rumped-swallow",
-   "photos_imported": []
+   "photos_imported": [
+    "1000293779.jpg"
+   ]
   }
  }
 }
