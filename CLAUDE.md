@@ -63,3 +63,8 @@ upload them to Claude storage.
    headless browser and confirm no script errors.
 7. Commit with a message listing what changed (e.g. "Add Indian Pitta; 2 sightings, 3 photos")
    and push to `main`. If nothing changed, don't commit.
+   **Commit author (so the commits count on Roshni's GitHub contributions graph):** always commit
+   as Roshni, never as "Claude" or `noreply@anthropic.com`:
+   `git -c user.name="Roshni Subudhi" -c user.email="272141676+roshnisubudhi6@users.noreply.github.com" commit ...`
+   Keep the `Co-Authored-By: Claude ...` trailer at the end of the message as usual. Use this
+   author for every commit in this repo, including manual runs and one-off fixes.
