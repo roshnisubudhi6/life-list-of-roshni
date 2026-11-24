@@ -1,7 +1,7 @@
 # Life list of Roshni — how to update this site
 
 This repo is Roshni's bird life-list website, served by GitHub Pages from `main` at
-https://roshnisubudhi6.github.io/life-list-of-roshni/. Roshni logs birds in Notion; this repo is
+https://birds.roshnisubudhi.com/. Roshni logs birds in Notion; this repo is
 updated from Notion by a scheduled sync. Photos live only in Notion and in `photos/` here. Never
 upload them to Claude storage.
 
